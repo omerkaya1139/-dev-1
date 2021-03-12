@@ -1,0 +1,55 @@
+---
+title: "Ödev 1 - Son Teslim Tarihi: 13/03/2021 Saat: 18:00"
+author: "ömer talha kaya 17080219"
+---
+
+```{r global_options, include=FALSE}
+library(knitr)
+
+opts_chunk$set(fig.align="center", fig.height=4, fig.width=5.5)
+```
+
+**Soru 1: (10 Puan)** Markdown kullanarak bir kelimesi kalın olan bir cümle yazınız.
+
+They say **jump** we say how high
+
+**Soru 2: (10 Puan)** Markdown kullanarak bir kelimesi italik olan bir cümle yazınız.
+
+They say jump we say how *high*
+
+**Soru 3: (10 Puan)** Markdown kullanarak bir kelimesi kalın italik olan bir cümle yazınız.
+
+They say ***jump*** we say how high
+
+**Soru 4: (10 Puan)** Markdown kullanarak 3 elemanlı bir sırasız liste yazınız.
+
+-   rage
+-   against
+-   the machine
+
+**Soru 5: (10 Puan)** Markdown kullanarak 3 elemanlı bir sıralı liste yazınız.
+
+1.  rage
+2.  against
+3.  the machine
+
+**Soru 6: (10 Puan)** Markdown kullanarak istediğiniz bir websayfasına link veriniz.
+
+[revoltbutton](https://www.youtube.com/watch?v=F9S-JVKw0mE&t=857s)
+
+**Soru 7: (10 Puan)** Markdown kullanarak bir komik bir kedi fotoğrafı ekleyiniz.
+(**En komik fotoğrafı ekleyen kişiye 5 Puan Bonus!**)
+
+![rocknrollcat](https://i.pinimg.com/originals/55/04/f9/5504f9e91eea2dd858e595845142c7da.jpg)
+
+**Soru 8: (15 Puan)** RMarkdown kullanarak bir kod bloğu ekleyiniz ve içerisinde basit bir matematik işlemi yapınız.
+
+```{r}
+5+4
+```
+
+**Soru 9: (15 Puan)** $LaTeX$ kullanarak bir blok denklem yazınız
+
+$$
+f(x)=2x+72
+$$
